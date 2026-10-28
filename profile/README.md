@@ -16,13 +16,13 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/section-products.svg" width="100%" alt="Products. Six products. One look.">
+<img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/section-products.svg" width="100%" alt="Products. Four products. One look.">
 
-<!-- Two cards per row at 50 % each. No whitespace between them, or the second card wraps. -->
+<!-- Two cards per row at 50 % each. No whitespace between them, or the second card wraps. The last card spans the row. -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-tickets.svg" width="50%" alt="Tickets, live. Support tickets for Discord. Panels, forms, claiming and transcripts, set up in a web dashboard."><a href="https://github.com/roleplayplusCOM/atelier"><img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-atelier.svg" width="50%" alt="atelier, open source. Free tool for GTA V addon clothing. Manage it, preview it in 3D and build it for FiveM and singleplayer."></a><br>
 <img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-streamdeck.svg" width="50%" alt="Stream Deck plugin, in development. Commands, emotes, toggles, live status and macros on your keys, each with its own label, icon and colour."><img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-redm.svg" width="50%" alt="RedM resource, in development. The game side of the plugin. Server owners decide what the deck can show and do, players pair once."><br>
-<img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-website.svg" width="50%" alt="Website, coming soon. Landing pages, docs and downloads for every product, in English and German."><img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-styles.svg" width="50%" alt="Styleguide, internal. Tokens, Sora, the key renderer and the generators behind every brand graphic, these included.">
+<a href="https://discord.gg/roleplayplus"><img src="https://raw.githubusercontent.com/roleplayplusCOM/.github/main/profile/assets/product-more.svg" width="100%" alt="Much more. Coming soon. New tools for roleplay servers are in the works. Follow along on Discord."></a>
 </p>
 
 <p align="center"><sub>Most of our repositories are private. Public pages and repositories are linked.</sub></p>
